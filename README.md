@@ -1,12 +1,12 @@
 ### Hi there :sunglasses:
 
-Eu sou o Klisman, Desenvolvedor Front-End, atualmente praticando projetos com:
+### Eu sou o Klisman, Desenvolvedor Front-End, atualmente praticando projetos com:
 <br>
 <br>
    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html" />
-   <br>
+   
    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="logo-css" />
-   <br>
+   
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-javascript" />
 <br>
 <br>
@@ -16,7 +16,7 @@ Eu sou o Klisman, Desenvolvedor Front-End, atualmente praticando projetos com:
 <br>
 <br>
    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="logo-node" />
-   <br>
+
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react" />
    
    <br>
